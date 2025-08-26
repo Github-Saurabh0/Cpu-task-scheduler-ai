@@ -1,0 +1,27 @@
+.root {
+  -fx-font-family: "Inter", "Segoe UI", sans-serif;
+  -fx-base: #15173a;
+  -fx-background-color: linear-gradient(to bottom right, #0f1020, #1b1e3c);
+  -fx-text-fill: #e9eef9;
+}
+.toolbar {
+  -fx-background-color: rgba(255,255,255,0.06);
+  -fx-background-radius: 14;
+  -fx-padding: 10;
+}
+.button {
+  -fx-background-radius: 10;
+  -fx-background-color: rgba(255,255,255,0.08);
+  -fx-text-fill: #e9eef9;
+  -fx-padding: 8 16 8 16;
+  -fx-font-weight: 600;
+}
+.button:hover { -fx-background-color: rgba(255,255,255,0.14); }
+.button.primary { -fx-background-color: #5865F2; }
+.button.accent { -fx-background-color: #00D1B2; }
+.table-view, .chart, .text-field, .combo-box {
+  -fx-background-color: rgba(255,255,255,0.05);
+  -fx-background-radius: 12;
+  -fx-padding: 6;
+}
+.chart-plot-background { -fx-background-color: transparent; }
