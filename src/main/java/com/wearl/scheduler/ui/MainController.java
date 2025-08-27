@@ -1,8 +1,8 @@
-package com.example.scheduler.ui;
+package com.wearl.scheduler.ui;
 
-import com.example.scheduler.core.Algorithm;
-import com.example.scheduler.core.algorithms.*;
-import com.example.scheduler.core.models.*;
+import com.wearl.scheduler.core.Algorithm;
+import com.wearl.scheduler.core.algorithms.*;
+import com.wearl.scheduler.core.models.*;
 
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
