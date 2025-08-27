@@ -1,6 +1,6 @@
-package com.example.scheduler.core;
+package com.wearl.scheduler.core;
 
-import com.example.scheduler.core.models.*;
+import com.wearl.scheduler.core.models.*;
 import java.util.List;
 
 public interface Algorithm {
