@@ -1,7 +1,7 @@
-package com.example.scheduler.core.algorithms;
+package com.wearl.scheduler.core.algorithms;
 
-import com.example.scheduler.core.Algorithm;
-import com.example.scheduler.core.models.*;
+import com.wearl.scheduler.core.Algorithm;
+import com.wearl.scheduler.core.models.*;
 
 import java.util.*;
 
